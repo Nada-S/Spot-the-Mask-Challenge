@@ -9,7 +9,7 @@ I used different methods :
       - Resnet152v2	
       - InceptionResNet  	
  
- See the advantages of each model in [the notebook]
+ See the advantages of each model and the results in [the notebook]
 
 
 [Here the link of the challenge](https://zindi.africa/hackathons/spot-the-mask-challenge)
